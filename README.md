@@ -7,13 +7,13 @@
 
 Ozone.Censor is a text censorship library for .Net
 
-###Binaries
+### Binaries
 You can download the library from the [releases](https://github.com/theryan722/Ozone.Censor/releases/) page.
 
-###Future Plans
+### Future Plans
 In the future I plan on adding more customization options, file censoring and more.
 
-###License
+### License
 Copyright 2015 Ryan O'Day
 
 Licensed under the Apache License, Version 2.0 (the "License");
